@@ -1,0 +1,7 @@
+{
+  "name": "mfttt11",
+  "website": "https://github.com/MFTTT11",
+  "description": "I operate on some data",
+  "logo": "https://img.imgyukle.com/2024/02/07/ymhiRS.png",
+  "twitter": "https://twitter.com/mfttt11"
+}
